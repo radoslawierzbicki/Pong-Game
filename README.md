@@ -9,3 +9,5 @@ This is a classic Pong game in Python using the Turtle graphics library. It feat
 - Left paddle controls: `W` (up), `S` (down)
 - Right paddle controls: `Up Arrow` (up), `Down Arrow` (down)
 - The ball bounces off the walls and paddles. Try to score by making the ball pass the opponent's paddle.
+
+<img src="Pong.gif" alt="Snake Gameplay" width="300"/>
